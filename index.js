@@ -56,8 +56,8 @@ const TobzKey = 'BotWeA'
 
 banChats = true
 offline = false
-targetpc = '6285875158363'
-owner = '6285875158363'
+targetpc = '628811929177'
+owner = '628811929177'
 fake = 'NAZE'
 numbernye = '0'
 waktu = '-'
@@ -104,9 +104,9 @@ module.exports = naze = async (naze, mek) => {
         const pushname = mek.key.fromMe ? naze.user.name : conts.notify || conts.vname || conts.name || '-'
         const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Natasya\n'
-            + 'ORG:Pengembang Naze Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285875158363:+6285875158363\n'
+            + 'FN:APRII\n'
+            + 'ORG:BOT INDO;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=628811929177:+628811929177\n'
             + 'END:VCARD'
 
 
