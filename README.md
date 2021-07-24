@@ -16,14 +16,14 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Naze-dev/Self
+> git clone https://github.com/Toni33812/Self
 > cd Self
 > bash install.sh
 > npm start/node main.js
 ```
 ## CARA INSTALL DI PC
 ```bash
-> git clone https://github.com/Naze-dev/Self
+> git clone https://github.com/Toni33812/Self
 > cd Self
 > npm i
 > npm start/node main.js
